@@ -1,0 +1,6 @@
+name: rSpatial
+channels:
+ - conda-forge
+dependencies:
+  - gdal
+  - r
