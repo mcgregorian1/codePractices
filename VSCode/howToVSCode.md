@@ -16,6 +16,7 @@ Here are some extensions that are helpful:
 - #region folding
 - Code spell checker
 - Better comments
+- Path intellisense (automatic path completion when writing code)
 - Color Pick (choose colors interactively in R (e.g.))
 - Project Manager (similar to "Projects" in RStudio)
 - Rainbow CSV (color codes csv columns when viewed in VSCode)
